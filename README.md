@@ -23,7 +23,7 @@ This project, completed as part of a Data Science course, demonstrates skills in
 - Analytical insights into company performance and market correlation.
 
 ## How to View/Run the Project
-1. Clone this repository: 'git clone [Your Repository URL]'
+1. Clone this repository: 'git clone [[Your Repository URL](https://github.com/Joarah1/Stock-Market-Analysis-Dashboard-Tesla-Stock-Project.git)]'
 2. Navigate to the project directory.
 3. Ensure you have the required libraries installed (`pip install yfinance pandas requests beautifulsoup4 plotly`).
 4. Open the Jupyter Notebook: `jupyter notebook your_notebook_name.ipynb`
